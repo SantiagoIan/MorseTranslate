@@ -1,5 +1,3 @@
-# Versão traduzida para o inglês do README.md
-readme_en_content = """
 # Morse Code Translator 🔠 ➡️ ▄ ▄▄▄ ▄ ▄
 
 A simple Java project that translates messages between plain text and Morse code. The application includes a terminal version (CLI) and a graphical interface using Swing (GUI), ideal for educational purposes and practicing object-oriented programming.
